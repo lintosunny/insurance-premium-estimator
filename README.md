@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://your-app-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Try%20the%20Live%20App-Click%20Here-blueviolet?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live App" />
+  </a>
+</p>
+
 # Predictive Health Insurance Premium Model
 
 A predictive machine learning solution developed for **Shield Insurance** by **AtliQ AI**. This project aims to estimate health insurance premiums based on applicant data such as age, BMI, smoking status, and medical history.

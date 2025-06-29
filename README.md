@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://your-app-link.com" target="_blank">
+  <a href="https://predict-insurance-premium.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/Try%20the%20Live%20App-Click%20Here-blueviolet?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live App" />
   </a>
 </p>

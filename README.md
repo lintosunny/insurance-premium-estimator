@@ -2,6 +2,9 @@
 
 A predictive machine learning solution developed for **Shield Insurance** by **AtliQ AI**. This project aims to estimate health insurance premiums based on applicant data such as age, BMI, smoking status, and medical history.
 
+![Insurance Predictor](insurance_predictor.png)
+
+
 ## 📌 Project Overview
 
 Shield Insurance seeks to enhance its underwriting process by integrating a predictive system that estimates premiums accurately and quickly. This project was executed in two phases:
@@ -9,7 +12,7 @@ Shield Insurance seeks to enhance its underwriting process by integrating a pred
 - **Phase 1 (MVP)**: Build a high-accuracy machine learning model and deploy it via an interactive web application.
 - **Phase 2**: Plan for future infrastructure to enable straight-through processing (STP) for quote automation (not covered in this repo).
 
----
+
 
 ## 🧠 Features
 
@@ -18,7 +21,7 @@ Shield Insurance seeks to enhance its underwriting process by integrating a pred
 - Cloud deployment to ensure availability and scalability.
 - Documentation and training support for underwriters.
 
----
+
 
 ## 🚀 Getting Started
 
@@ -38,7 +41,7 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
----
+
 
 ## 📊 Model Development Workflow
 
@@ -58,7 +61,7 @@ streamlit run main.py
 - Developed an intuitive Streamlit UI for underwriters.
 - Includes input form and real-time premium prediction.
 
----
+
 
 ## ✅ Acceptance Criteria (Phase 1)
 
@@ -66,5 +69,3 @@ streamlit run main.py
 - 95% of predictions within ±10% error margin
 - Web app fully functional and usable remotely
 - Model and app deployed securely on the cloud
-
----

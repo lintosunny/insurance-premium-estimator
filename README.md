@@ -8,7 +8,9 @@
 
 A predictive machine learning solution developed for **Shield Insurance** by **AtliQ AI**. This project aims to estimate health insurance premiums based on applicant data such as age, BMI, smoking status, and medical history.
 
-![Insurance Predictor](insurance_predictor.png)
+<p align="center">
+  <img src="insurance_predictor.png" alt="Insurance Predictor" width="500"/>
+</p>
 
 
 ## 📌 Project Overview
@@ -33,16 +35,22 @@ Shield Insurance seeks to enhance its underwriting process by integrating a pred
 
 ### 1. Clone the Repository
 
-```bash
+```
 git clone https://github.com/lintosunny/insurance-premium-estimator.git
 ```
 
-### 2. Install Dependencies
+### 2. Create environment
+```
+conda create -n venv python=3.10
+conda activate venv
+```
+
+### 3. Install Dependencies
 ```
 pip install -r requirements.txt
 ```
 
-### 3. Run Streamlit App
+### 4. Run Streamlit App
 ```
 streamlit run main.py
 ```
